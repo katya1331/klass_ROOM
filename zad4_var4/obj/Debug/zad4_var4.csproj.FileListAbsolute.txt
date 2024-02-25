@@ -1,0 +1,21 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\bin\Debug\zad4_var4.exe.config
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\bin\Debug\zad4_var4.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\bin\Debug\zad4_var4.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\obj\Debug\zad4_var4.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\obj\Debug\zad4_var4.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\obj\Debug\zad4_var4.Form1.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\obj\Debug\zad4_var4.Properties.Resources.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\obj\Debug\zad4_var4.csproj.GenerateResource.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\obj\Debug\zad4_var4.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\obj\Debug\zad4_var4.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4_var4\obj\Debug\zad4_var4.pdb
+C:\Users\1395367\Desktop\bup\zad4_var4\bin\Debug\zad4_var4.exe.config
+C:\Users\1395367\Desktop\bup\zad4_var4\bin\Debug\zad4_var4.exe
+C:\Users\1395367\Desktop\bup\zad4_var4\bin\Debug\zad4_var4.pdb
+C:\Users\1395367\Desktop\bup\zad4_var4\obj\Debug\zad4_var4.csproj.AssemblyReference.cache
+C:\Users\1395367\Desktop\bup\zad4_var4\obj\Debug\zad4_var4.Form1.resources
+C:\Users\1395367\Desktop\bup\zad4_var4\obj\Debug\zad4_var4.Properties.Resources.resources
+C:\Users\1395367\Desktop\bup\zad4_var4\obj\Debug\zad4_var4.csproj.GenerateResource.cache
+C:\Users\1395367\Desktop\bup\zad4_var4\obj\Debug\zad4_var4.csproj.CoreCompileInputs.cache
+C:\Users\1395367\Desktop\bup\zad4_var4\obj\Debug\zad4_var4.exe
+C:\Users\1395367\Desktop\bup\zad4_var4\obj\Debug\zad4_var4.pdb
